@@ -2,4 +2,4 @@
 
 ### .Net
 
-- [Distributed lock](.net/distributed-mutex-with-lease-blob.md)
+#### [Distributed mutex with lease blob](/distributed-mutex-with-lease-blob)

@@ -25,7 +25,7 @@ With the background given above, the implementation can be split to three parts:
 - **DistributedMutex**: which integrated with AzureBlobAccessor and wrap it to expose an easy interface for others to use the mutex.
 - A sample about how to use the **DistributedMutex**
 
-You can find the sample code [here](samples/Dotnet).
+You can find the sample code [here](https://github.com/928PJY/928pjy.github.io/samples/Dotnet).
 
 ### AzureBlobAccessor
 
